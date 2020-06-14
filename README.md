@@ -1,1 +1,3 @@
-# www-2019-Toulouse
+# README
+
+Clone of the original wordpress site
